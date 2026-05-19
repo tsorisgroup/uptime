@@ -7,12 +7,6 @@ sites:
     url: https://tsoris.com
   - name: Tsoris Group
     url: https://corp.tsoris.com
-  - name: Phone System
-    check: "tcp-ping"
-    url: 5.161.132.114
-    port: 5060
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
