@@ -1,5 +1,7 @@
+permissions:  contents: write
+
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: tsorisgroup # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
