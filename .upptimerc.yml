@@ -1,4 +1,5 @@
-permissions:  contents: write
+permissions:
+  contents: write
 
 # Change these first
 owner: tsorisgroup # Your GitHub organization or username, where this repository lives
