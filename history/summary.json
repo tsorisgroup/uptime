@@ -23,17 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/corp.tsoris.com.ico",
     "slug": "corporate",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "54.64%",
+    "uptimeDay": "54.64%",
+    "uptimeWeek": "54.64%",
+    "uptimeMonth": "54.64%",
+    "uptimeYear": "54.64%",
     "time": 33,
     "timeDay": 33,
     "timeWeek": 33,
     "timeMonth": 33,
     "timeYear": 33,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-20": 0
+    }
   },
   {
     "name": "CDN",
