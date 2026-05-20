@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 sites:
   - name: Cooper Tsoris (Personal)
     url: https://tsoris.com
-  - name: Corporate
+  - name: Tsoris Group
     url: https://corp.tsoris.com
   - name: CDN
     url: https://cdn.tsoris.com/Branding/Wordmark/tsoris365.png
@@ -14,8 +14,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tsoris.com
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.tsoris.com/web/tsoris-blue.png
-  name: Status Page
+  logoUrl: https://cdn.tsoris.com/web/tsoris-word-ds.png
+  name: Status
   introTitle: "Tsoris Group Status"
   introMessage: View the status of our services
   navbar:
