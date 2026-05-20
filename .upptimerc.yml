@@ -9,8 +9,6 @@ sites:
     url: https://corp.tsoris.com
   - name: Content Delivery Network
     url: https://cdn.tsoris.com/Branding/Wordmark/tsoris365.png
-  - name: PBX
-    url: https://s.tsor.is
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
